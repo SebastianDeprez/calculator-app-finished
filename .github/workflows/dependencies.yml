@@ -10,4 +10,5 @@ jobs:
        uses: actions/checkout@v5
      - name: setup Node
        uses: actions/setup-node@v4
-    
+     - name: verification
+       run: ls - alhR
