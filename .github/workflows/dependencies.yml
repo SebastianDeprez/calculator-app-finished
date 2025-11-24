@@ -11,4 +11,4 @@ jobs:
      - name: setup Node
        uses: actions/setup-node@v4
      - name: verification
-       run: ls - alhR
+       run: ls -alhR
